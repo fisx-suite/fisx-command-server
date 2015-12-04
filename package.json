@@ -1,0 +1,21 @@
+{
+  "name": "fisx-command-server",
+  "version": "0.1.0",
+  "description": "local web server for fisx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fis3",
+    "fisx",
+    "server"
+  ],
+  "author": "sparklewhy@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "autoresponse": "^0.1.5",
+    "edp-webserver": "^1.2.5",
+    "findup": "^0.1.5"
+  }
+}
