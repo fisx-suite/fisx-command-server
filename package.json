@@ -14,7 +14,7 @@
   "author": "sparklewhy@gmail.com",
   "license": "ISC",
   "dependencies": {
-    "autoresponse": "^0.1.5",
+    "autoresponse": "^0.1.6",
     "edp-webserver": "^1.2.5",
     "findup": "^0.1.5"
   }
