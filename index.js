@@ -23,6 +23,11 @@ exports.run = function (argv, cli, env) {
         return cli.help(exports.name, exports.options, exports.commands);
     }
 
+    if (argv._.length <= 1) {
+        fis.log.error('missing command param, use `-h` option to view the usage');
+        return;
+    }
+
     var cmd = argv._[1].toLowerCase();
     var options = {
         root: env.cwd,
