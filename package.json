@@ -22,7 +22,9 @@
   "license": "ISC",
   "dependencies": {
     "autoresponse": "^0.1.6",
-    "edp-webserver": "^1.2.5",
-    "findup": "^0.1.5"
+    "edp-webserver": "^1.2.8",
+    "findup": "^0.1.5",
+    "pretty-hrtime": "^1.0.3",
+    "qrequire": "^0.1.1"
   }
 }
