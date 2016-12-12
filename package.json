@@ -25,6 +25,6 @@
     "edp-webserver": "^1.2.8",
     "findup": "^0.1.5",
     "pretty-hrtime": "^1.0.3",
-    "qrequire": "^0.1.1"
+    "qrequire": "^0.2.0"
   }
 }
