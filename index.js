@@ -37,6 +37,9 @@ exports.run = function (argv, cli, env) {
         proxy: argv.proxy,
         serveRelease: !!argv.release
     };
+
+    fis.serveRelease = options.serveRelease;
+
     var server = require('./lib/server');
     switch (cmd) {
         case 'start':
