@@ -1,6 +1,8 @@
 fisx-command-server
 ========
 
+[![Dependency Status](https://david-dm.org/wuhy/fisx-command-server.svg)](https://david-dm.org/wuhy/fisx-command-server) [![devDependency Status](https://david-dm.org/wuhy/fisx-command-server/dev-status.svg)](https://david-dm.org/wuhy/fisx-command-server#info=devDependencies) [![NPM Version](https://img.shields.io/npm/v/fisx-command-server.svg?style=flat)](https://npmjs.org/package/fisx-command-server)
+
 > Start a local webserver to develop and test.
 
 ## How to use
