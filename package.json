@@ -1,6 +1,6 @@
 {
   "name": "fisx-command-server",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "local web server for fisx",
   "main": "index.js",
   "scripts": {
