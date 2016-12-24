@@ -21,6 +21,7 @@
   "author": "sparklewhy@gmail.com",
   "license": "ISC",
   "dependencies": {
+    "amd-wrapper": "^0.1.0",
     "autoresponse": "^0.1.8",
     "edp-webserver": "^1.2.8",
     "findup": "^0.1.5",
